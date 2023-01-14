@@ -1,0 +1,2 @@
+# Heredity-AI-project---CS50-s-Introduction-to-Artificial-Intelligence-with-Python
+This project applied the Bayesian Network to model the relationships between members within families and calculated the joint probability that one has the GJB2 gene (one of the leading causes of hearing impairment in newborns), given the information about the number of copies of the mutated gene their parents have. 
